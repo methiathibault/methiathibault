@@ -1,7 +1,7 @@
 ### Hi there 👋
  - 👋 Hi, I’m @methiathibault
  - 👀 I’m interested in Japanese culture, Gaming and new technologies !
- - 🌱 I’m currently learning React, NextJS, JavaScript
+ - 🌱 I’m currently learning React, NextJS, JavaScript, FastAPI
  - 📫 methiathibault@gmail.com
 <!--
 **methiathibault/methiathibault** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
